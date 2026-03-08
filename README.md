@@ -1,14 +1,23 @@
-# The-Syntax-Surgeon-
-Python Syntax Error Checker using Gradio
-# Syntax Surgeon
+# Syntax-Surgeon
+SS
+# 🧠 Syntax Surgeon
 
-Syntax Surgeon is a simple Python Syntax Error Checker.
+A simple AI-powered Python Syntax Error Checker built using Gradio and deployed on Hugging Face.
 
-## Features
+## 🚀 Live App
+
+👉 [Click here to use the app](https://archana2004-the-syntax-surgeon.hf.space/)
+
+## 🔧 Features
 - Detects Python syntax errors
-- Beginner friendly
-- Web interface using Gradio
+- Shows error messages
+- Clean user interface
 
-## Technologies
+## 🛠️ Built With
 - Python
 - Gradio
+- Hugging Face Spaces
+
+---
+
+👩‍💻 Developed by Archana
